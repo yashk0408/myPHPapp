@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.head1{
+    font-size: xx-large;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    border: 4px;
+    border-style: dashed;
+    border-color: rgb(1, 26, 26);
+    background-color: rgb(185, 140, 227);
+    overflow:hidden;
+}
+h1{
+    margin-bottom: 0%;
+}
+/* input,textarea{
+    width:50%;
+    margin:20px;
+} */
+.btn btn-primary btn-lg,.btn btn-secondary btn-lg{
+display: inline-block;
+vertical-align: top;
+
+}
